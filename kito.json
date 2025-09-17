@@ -1,1 +1,9 @@
-1
+{
+  "apiUrl": "https://kitobot-10020066.chipp.ai/api/chat",
+  "headers": {
+    "accept": "*/*",
+    "content-type": "application/json",
+    "user-agent": "Mozilla/5.0 GoatBot Integration",
+    "Referer": "https://kitobot-10020066.chipp.ai/w/chat/"
+  }
+}
